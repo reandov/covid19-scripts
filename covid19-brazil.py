@@ -11,7 +11,7 @@ from util.data_visualization.national_plots import plot_national_acc, plot_natio
 from util.data_visualization.state_plots import plot_state_acc, plot_state_daily
 from util.data_visualization.regional_plots import plot_regional_acc, plot_regional_daily
 from util.data_visualization.extra_plots import plot_epidemiological_weeks
-from util.extra_functions.aux_functions import generate_report
+from util.extra_functions.aux_functions import generate_jsons, generate_report
 
 # Creating a dictionary of regions and states
 region_list = ["Norte", "Nordeste", "Centro-Oeste", "Sudeste", "Sul"]
@@ -79,6 +79,7 @@ def main():
     print("> Generating report")
     
     generate_report(national_data, last_available_date)
+    generate_jsons()
     
     print("  - Report generated.\n")
     
