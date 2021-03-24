@@ -9,6 +9,8 @@ def generate_jsons():
     state_list = ['AC', 'AP', 'AM', 'TO', 'PA', 'RR', 'RO', 'AL', 'BA', 'PB', 'PE', 'SE', 'PI', 'CE', 'MA', 'RN', 'MT', 'GO', 'MS', 'DF', 'SP', 'ES', 'RJ', 'MG',  'SC', 'RS', 'PR']
 
     pd.read_csv("./data/national/covid19-dataset-brasil.csv").to_json("./data/jsons/national_data.json")
+    pd.read_csv("./data/daily/covid19-dataset-today.csv").to_json("./data/jsons/daily_data.json")
+    pd.read_csv('./data/extras/covid19-dataset-epi-weeks.csv').to_json("./data/jsons/epi_weeks_data.json")
 
     pd.read_csv("./data/regions/covid19-Norte.csv").to_json("./data/jsons/region_norte.json")
     pd.read_csv("./data/regions/covid19-Nordeste.csv").to_json("./data/jsons/region_nordeste.json")

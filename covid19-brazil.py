@@ -5,6 +5,8 @@ import time
 
 from util.data_preprocessing.get_data import download_dataset, data_cleaning
 from util.data_processing.national_data import process_national_data
+from util.data_processing.epi_weeks_data import process_epi_weeks_data
+from util.data_processing.daily_data import process_daily_data
 from util.data_processing.regional_data import process_regional_data
 from util.data_processing.state_data import process_state_split_data
 from util.data_visualization.national_plots import plot_national_acc, plot_national_daily
@@ -51,6 +53,16 @@ def main():
     national_data = process_national_data(covid_dataset, date_list, last_available_date)
     
     print("  - National data acquired.\n")
+    print("> Processing epidemiological data.")
+    
+    daily_data = process_epi_weeks_data(national_data)
+
+    print("  - Epidemiological data acquired.\n")
+    print("> Processing daily data.")
+    
+    daily_data = process_daily_data(covid_dataset, last_available_date)
+    
+    print("  - Daily data acquired.\n")
     print("> Processing regional data.")
     
     regional_data = process_regional_data(covid_dataset, region_list, date_list, last_available_date)
@@ -66,8 +78,8 @@ def main():
     plot_national_acc(national_data, last_available_date)
     plot_national_daily(national_data, last_available_date)
     plot_epidemiological_weeks(national_data, last_available_date)
-    plot_state_acc(covid_dataset, last_available_date)
-    plot_state_daily(covid_dataset, last_available_date)
+    plot_state_acc(daily_data, last_available_date)
+    plot_state_daily(daily_data, last_available_date)
     plot_regional_acc(regional_data, region_list, last_available_date)
     plot_regional_daily(regional_data, region_list, last_available_date)
     
