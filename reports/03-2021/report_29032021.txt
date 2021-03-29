@@ -1,0 +1,19 @@
+Atualização COVID-19 no Brasil [29/03/2021]
+
+| Casos Acumulados: 12.584.231
+| Óbitos Acumulados: 314.419
+
+| Qntd. de NOVOS Casos: 42.017
+| Qntd. de NOVOS Óbitos: 1.987
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
