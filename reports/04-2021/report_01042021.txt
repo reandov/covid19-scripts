@@ -1,0 +1,19 @@
+Atualização COVID-19 no Brasil [01/04/2021]
+
+| Casos Acumulados: 12.848.620
+| Óbitos Acumulados: 325.670
+
+| Qntd. de NOVOS Casos: 88.353
+| Qntd. de NOVOS Óbitos: 3.626
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
