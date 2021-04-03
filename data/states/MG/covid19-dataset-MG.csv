@@ -402,3 +402,4 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-03-31,Brazil,MG,1123913,24332,12020,417
 2021-04-01,Brazil,MG,1135856,24728,11943,396
 2021-04-02,Brazil,MG,1147578,25214,11722,486
+2021-04-03,Brazil,MG,1153526,25534,5948,320
