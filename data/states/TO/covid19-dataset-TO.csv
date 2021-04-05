@@ -369,8 +369,8 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-02-26,Brazil,TO,113594,1517,771,8
 2021-02-27,Brazil,TO,113924,1526,330,9
 2021-02-28,Brazil,TO,114467,1532,543,6
-2021-03-01,Brazil,TO,115342,1539,875,7
-2021-03-02,Brazil,TO,116038,1549,696,10
+2021-03-01,Brazil,TO,115341,1539,874,7
+2021-03-02,Brazil,TO,116038,1549,697,10
 2021-03-03,Brazil,TO,116912,1557,874,8
 2021-03-04,Brazil,TO,117728,1565,816,8
 2021-03-05,Brazil,TO,118244,1574,516,9
@@ -402,4 +402,5 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-03-31,Brazil,TO,141913,2057,938,25
 2021-04-01,Brazil,TO,142493,2079,580,22
 2021-04-02,Brazil,TO,143072,2101,579,22
-2021-04-03,Brazil,TO,143072,2101,579,22
+2021-04-03,Brazil,TO,143322,2107,250,6
+2021-04-04,Brazil,TO,143322,2107,250,6
