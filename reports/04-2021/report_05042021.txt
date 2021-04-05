@@ -1,0 +1,19 @@
+Atualização COVID-19 no Brasil [05/04/2021]
+
+| Casos Acumulados: 13.023.804
+| Óbitos Acumulados: 333.205
+
+| Qntd. de NOVOS Casos: 37.217
+| Qntd. de NOVOS Óbitos: 1.593
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
