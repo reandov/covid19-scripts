@@ -1,6 +1,8 @@
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
 env/
 alt/
-.ipynb_checkpoints/
 tests/
-__pycache__/
+auth/
 data/processed/covid19-dataset-brasilio-original.csv
