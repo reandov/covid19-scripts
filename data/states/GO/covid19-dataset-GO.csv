@@ -405,3 +405,4 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-04-03,Brazil,GO,488933,11828,712,13
 2021-04-04,Brazil,GO,490347,11849,1414,21
 2021-04-05,Brazil,GO,493272,12069,2925,220
+2021-04-06,Brazil,GO,497346,12240,4074,171
