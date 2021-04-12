@@ -410,3 +410,4 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-04-08,Brazil,DF,354816,6609,1610,77
 2021-04-09,Brazil,DF,356558,6676,1742,67
 2021-04-10,Brazil,DF,357761,6709,1203,33
+2021-04-11,Brazil,DF,359122,6754,1361,45
