@@ -1,0 +1,19 @@
+Atualização COVID-19 no Brasil [13/04/2021]
+
+| Casos Acumulados: 13.609.116
+| Óbitos Acumulados: 358.830
+
+| Qntd. de NOVOS Casos: 80.853
+| Qntd. de NOVOS Óbitos: 3.657
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
