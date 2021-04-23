@@ -1,0 +1,19 @@
+Atualização COVID-19 no Brasil [22/04/2021]
+
+| Casos Acumulados: 14.179.609
+| Óbitos Acumulados: 383.924
+
+| Qntd. de NOVOS Casos: 48.193
+| Qntd. de NOVOS Óbitos: 2.072
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil

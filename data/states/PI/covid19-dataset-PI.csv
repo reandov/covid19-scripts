@@ -420,4 +420,5 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-04-18,Brazil,PI,227910,4780,1286,22
 2021-04-19,Brazil,PI,229291,4802,1381,22
 2021-04-20,Brazil,PI,230952,4830,1661,28
-2021-04-21,Brazil,PI,231921,4858,969,28
+2021-04-21,Brazil,PI,232049,4858,1097,28
+2021-04-22,Brazil,PI,233228,4886,1179,28
