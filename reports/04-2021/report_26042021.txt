@@ -1,0 +1,19 @@
+Atualização COVID-19 no Brasil [26/04/2021]
+
+| Casos Acumulados: 14.379.612
+| Óbitos Acumulados: 392.452
+
+| Qntd. de NOVOS Casos: 34.628
+| Qntd. de NOVOS Óbitos: 1.384
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
