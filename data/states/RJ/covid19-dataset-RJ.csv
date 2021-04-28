@@ -426,3 +426,5 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-04-24,Brazil,RJ,723580,42857,2831,223
 2021-04-25,Brazil,RJ,724596,42914,1016,57
 2021-04-26,Brazil,RJ,724858,42927,262,13
+2021-04-27,Brazil,RJ,729206,43288,4348,361
+2021-04-28,Brazil,RJ,733764,43618,4558,330
