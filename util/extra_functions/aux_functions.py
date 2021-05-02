@@ -45,6 +45,11 @@ def generate_report(dataset, last_available_date):
     file.write("Repositório do GitHub:\n")
     file.write("https://github.com/evnrodr/covid19-brazil")
     
+    file.write("\n\n=================================\n\n")
+    
+    file.write("Acompanhe o Dashboard online:\n")
+    file.write("https://covid-painel.vercel.app")
+    
     file.close()
     
 ## Function to get a region name based on input (state)
