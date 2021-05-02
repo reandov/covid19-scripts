@@ -428,4 +428,6 @@ date,region,accumulated_num_cases,accumulated_num_deaths,new_num_cases,new_num_d
 2021-04-26,Centro-Oeste,1517390,37467,7410,346
 2021-04-27,Centro-Oeste,1524743,37760,7353,293
 2021-04-28,Centro-Oeste,1531698,37947,6955,187
-2021-04-29,Centro-Oeste,1536264,38144,5476,239
+2021-04-29,Centro-Oeste,1537213,38176,5515,229
+2021-04-30,Centro-Oeste,1542371,38387,5158,211
+2021-05-01,Centro-Oeste,1545202,38481,3679,135
