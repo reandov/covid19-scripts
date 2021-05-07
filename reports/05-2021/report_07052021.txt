@@ -1,0 +1,24 @@
+Atualização COVID-19 no Brasil [07/05/2021]
+
+| Casos Acumulados: 15.094.854
+| Óbitos Acumulados: 419.584
+
+| Qntd. de NOVOS Casos: 78.468
+| Qntd. de NOVOS Óbitos: 2.194
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
+
+=================================
+
+Acompanhe o Dashboard online:
+https://covid-painel.vercel.app
