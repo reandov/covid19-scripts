@@ -434,3 +434,5 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-05-02,Brazil,PE,409493,14180,730,52
 2021-05-03,Brazil,PE,410453,14206,960,26
 2021-05-04,Brazil,PE,412786,14279,2333,73
+2021-05-05,Brazil,PE,414929,14333,2143,54
+2021-05-06,Brazil,PE,418003,14385,3074,52

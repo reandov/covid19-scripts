@@ -433,4 +433,6 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-05-01,Brazil,RR,96732,1513,156,0
 2021-05-02,Brazil,RR,96771,1513,39,0
 2021-05-03,Brazil,RR,96966,1514,195,1
-2021-05-04,Brazil,RR,96966,1514,195,1
+2021-05-04,Brazil,RR,97212,1529,246,15
+2021-05-05,Brazil,RR,97540,1533,328,4
+2021-05-06,Brazil,RR,97540,1533,328,4
