@@ -1,0 +1,24 @@
+Atualização COVID-19 no Brasil [23/05/2021]
+
+| Casos Acumulados: 16.090.038
+| Óbitos Acumulados: 449.352
+
+| Qntd. de NOVOS Casos: 38.795
+| Qntd. de NOVOS Óbitos: 922
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
+
+=================================
+
+Acompanhe o Dashboard online:
+https://covid-painel.vercel.app
