@@ -454,3 +454,7 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-05-22,Brazil,AC,81348,1633,113,1
 2021-05-23,Brazil,AC,81413,1635,65,2
 2021-05-24,Brazil,AC,81505,1642,92,7
+2021-05-25,Brazil,AC,81651,1649,146,7
+2021-05-26,Brazil,AC,81850,1652,199,3
+2021-05-27,Brazil,AC,81980,1652,130,0
+2021-05-28,Brazil,AC,82149,1655,169,3

@@ -454,3 +454,7 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-05-22,Brazil,DF,397715,8450,730,8
 2021-05-23,Brazil,DF,398450,8466,735,16
 2021-05-24,Brazil,DF,399349,8483,899,17
+2021-05-25,Brazil,DF,400188,8514,839,31
+2021-05-26,Brazil,DF,400977,8537,789,23
+2021-05-27,Brazil,DF,402182,8569,1205,32
+2021-05-28,Brazil,DF,403175,8600,993,31

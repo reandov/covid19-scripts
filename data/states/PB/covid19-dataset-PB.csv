@@ -454,3 +454,7 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-05-22,Brazil,PB,315648,7402,1415,32
 2021-05-23,Brazil,PB,316897,7420,1249,18
 2021-05-24,Brazil,PB,318261,7448,1364,28
+2021-05-25,Brazil,PB,320276,7484,2015,36
+2021-05-26,Brazil,PB,322538,7520,2262,36
+2021-05-27,Brazil,PB,324425,7556,1887,36
+2021-05-28,Brazil,PB,326342,7589,1917,33

@@ -454,3 +454,7 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-05-22,Brazil,MA,284142,7876,728,24
 2021-05-23,Brazil,MA,284301,7896,159,20
 2021-05-24,Brazil,MA,284675,7919,374,23
+2021-05-25,Brazil,MA,285838,7954,1163,35
+2021-05-26,Brazil,MA,286945,7990,1107,36
+2021-05-27,Brazil,MA,287974,8025,1029,35
+2021-05-28,Brazil,MA,289019,8063,1045,38
