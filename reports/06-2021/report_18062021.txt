@@ -1,0 +1,24 @@
+Atualização COVID-19 no Brasil [18/06/2021]
+
+| Casos Acumulados: 17.808.472
+| Óbitos Acumulados: 498.831
+
+| Qntd. de NOVOS Casos: 98.340
+| Qntd. de NOVOS Óbitos: 2.503
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
+
+=================================
+
+Acompanhe o Dashboard online:
+https://covid-painel.vercel.app
