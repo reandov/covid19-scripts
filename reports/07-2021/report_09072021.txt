@@ -1,0 +1,24 @@
+Atualização COVID-19 no Brasil [09/07/2021]
+
+| Casos Acumulados: 19.026.545
+| Óbitos Acumulados: 531.952
+
+| Qntd. de NOVOS Casos: 57.046
+| Qntd. de NOVOS Óbitos: 1.442
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
+
+=================================
+
+Acompanhe o Dashboard online:
+https://covid-painel.vercel.app
