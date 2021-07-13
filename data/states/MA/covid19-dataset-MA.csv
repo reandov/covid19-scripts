@@ -501,3 +501,5 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-07-08,Brazil,MA,324015,9256,972,31
 2021-07-09,Brazil,MA,325011,9282,996,26
 2021-07-10,Brazil,MA,325685,9310,674,28
+2021-07-11,Brazil,MA,325782,9315,97,5
+2021-07-12,Brazil,MA,326094,9335,312,20

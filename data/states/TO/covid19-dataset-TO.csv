@@ -500,4 +500,6 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-07-07,Brazil,TO,201174,3290,504,11
 2021-07-08,Brazil,TO,201821,3301,647,11
 2021-07-09,Brazil,TO,202215,3315,394,14
-2021-07-10,Brazil,TO,202215,3315,394,14
+2021-07-10,Brazil,TO,202398,3330,183,15
+2021-07-11,Brazil,TO,202654,3344,256,14
+2021-07-12,Brazil,TO,202654,3344,256,14

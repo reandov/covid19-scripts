@@ -501,3 +501,5 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-07-08,Brazil,PA,561062,15692,976,19
 2021-07-09,Brazil,PA,561798,15701,736,9
 2021-07-10,Brazil,PA,561944,15708,146,7
+2021-07-11,Brazil,PA,561964,15709,20,1
+2021-07-12,Brazil,PA,562351,15719,387,10

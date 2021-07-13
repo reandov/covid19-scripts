@@ -501,3 +501,5 @@ date,country,state,accumulated_num_cases,accumulated_num_deaths,new_num_cases,ne
 2021-07-08,Brazil,CE,897446,22909,882,60
 2021-07-09,Brazil,CE,899792,22969,2346,60
 2021-07-10,Brazil,CE,901227,23008,1435,39
+2021-07-11,Brazil,CE,901794,23034,567,26
+2021-07-12,Brazil,CE,902190,23053,396,19
