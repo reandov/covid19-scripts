@@ -1,0 +1,24 @@
+Atualização COVID-19 no Brasil [13/08/2021]
+
+| Casos Acumulados: 20.324.058
+| Óbitos Acumulados: 568.109
+
+| Qntd. de NOVOS Casos: 33.031
+| Qntd. de NOVOS Óbitos: 886
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
+
+=================================
+
+Acompanhe o Dashboard online:
+https://covid-painel.vercel.app

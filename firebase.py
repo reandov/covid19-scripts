@@ -17,7 +17,7 @@ cred = credentials.Certificate('./auth/covid19br-panel-auth.json')
 
 # Initializing the application based on given credential
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://covid19br-panel-default-rtdb.firebaseio.com/'
+    'databaseURL': 'https://covid19br-database-default-rtdb.firebaseio.com/'
 })
 
 # Switching to the root of DB
