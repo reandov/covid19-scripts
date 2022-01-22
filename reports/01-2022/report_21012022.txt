@@ -1,0 +1,24 @@
+Atualização COVID-19 no Brasil [21/01/2022]
+
+| Casos Acumulados: 23.766.499
+| Óbitos Acumulados: 622.875
+
+| Qntd. de NOVOS Casos: 170.574
+| Qntd. de NOVOS Óbitos: 397
+
+Fonte dos dados: http://brasil.io / Secretarias de Saúde
+#ficaemcasa #DataScience #COVID19
+
+=================================
+
+Visualização por Semanas Epidemiológicas e visualizações Regionais:
+
+=================================
+
+Repositório do GitHub:
+https://github.com/evnrodr/covid19-brazil
+
+=================================
+
+Acompanhe o Dashboard online:
+https://covid-painel.vercel.app
